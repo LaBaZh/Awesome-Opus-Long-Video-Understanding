@@ -3,8 +3,8 @@ A curated list of real long-form video understanding resources, inspired by [awe
 
 ## Contents
  - [Dataset](#Dataset)
- - [Long-form video dataset](#Long-form-video-dataset)
- - [SOTA Result](#SOTA-Result)
+   - [Long-form video dataset](#Long-form-video-dataset)
+   - [SOTA Result](#SOTA-Result)
  - [Survey](#Related-Survey)
  - [Papers & Codes](#Papers-&-Codes)
  - [Miscellaneous](#Miscellaneous)
