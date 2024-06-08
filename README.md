@@ -31,7 +31,7 @@ A curated list of real long-form video understanding resources, inspired by [awe
 🔨TODO: Categorize the papers and works.
 
 ## Miscellaneous
-🔨TODO: Add useful tools/platforms here.
+- [video2dataset](https://github.com/iejMac/video2dataset): video dataset construction and download tools.
 
 ## Contributing
 Please read the [contribution guidelines](contributing.md). Then please feel free to send me [pull requests]([https://github.com/LaBaZh/Awesome-Long-Video-Understanding/pull]) or email (lee.li@opus.pro) to add links.
