@@ -31,8 +31,7 @@ A curated list of real long-form video understanding resources, inspired by [awe
 * [EditVid-QA](http://arxiv.org/abs/2406.10484)
 * [AutoTransition](https://github.com/acherstyx/AutoTransition)
 * [AudioMatchCutting](https://ieeexplore.ieee.org/abstract/document/10447306)
-* 
-
+  
 ### Movie-related video dataset
 * [MovieQA](http://arxiv.org/abs/1512.02902)
 * [TVSum](https://github.com/yalesong/tvsum)
