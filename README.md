@@ -14,6 +14,7 @@ A curated list of real long-form video understanding resources, inspired by [awe
 * [VIOLIN](https://github.com/jimmy646/violin)
 * [ShareGPT4Video](https://sharegpt4video.github.io/)
 * [Panda-70](https://github.com/snap-research/Panda-70M)
+* [M-SYMON](http://arxiv.org/abs/2406.13092)
 
 ### Long-form video dataset
 * [MovieChat](https://github.com/rese1f/MovieChat)
